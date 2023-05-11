@@ -8,7 +8,7 @@
       "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
       "automerge": true,
       "automergeType": "branch",
-      "automergeComment": "Update Gemerged"
+      "automergeComment": "Automatically merge minor and patch-level updates"
     }
   ]
 }
