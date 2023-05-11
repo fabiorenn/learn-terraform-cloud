@@ -7,7 +7,7 @@
     {
       "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
       "automerge": true,
-      "automergeType": "pr-comment",
+      "automergeType": "branch",
       "automergeComment": "Update Gemerged"
     }
   ]
