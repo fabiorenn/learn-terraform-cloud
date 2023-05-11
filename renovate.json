@@ -11,5 +11,7 @@
       "automergeComment": "Automatically merge minor and patch-level updates"
     }
   ], 
-  "rollbackPrs": true
+  "rollbackPrs": true, 
+  "timezone": "Europe/London", 
+  "schedule": [ "after 8pm and before 6am" ],
 }
