@@ -14,5 +14,5 @@
   ], 
   "rollbackPrs": true, 
   "timezone": "Europe/London", 
-  "schedule": [ "after 8pm and before 6am" ],
+  "schedule": [ "after 8pm and before 6am" ]
 }
